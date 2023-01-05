@@ -63,4 +63,5 @@ void output(int n, Complex c[n], Complex result){
   printf("%d+%di ",c[n-1].real,c[n-1].img);
   printf("is %d+%di",result.real,result.img);
 }
+
   
